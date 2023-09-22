@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\consola\\Consola.csproj": {}
+    "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\Consola\\Consola.csproj": {}
   },
   "projects": {
-    "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\consola\\Consola.csproj": {
+    "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\Consola\\Consola.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\consola\\Consola.csproj",
+        "projectUniqueName": "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\Consola\\Consola.csproj",
         "projectName": "Consola",
-        "projectPath": "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\consola\\Consola.csproj",
+        "projectPath": "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\Consola\\Consola.csproj",
         "packagesPath": "C:\\Users\\Sena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\consola\\obj\\",
+        "outputPath": "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\Consola\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sena\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -26,8 +26,8 @@
           "net7.0": {
             "targetAlias": "net7.0",
             "projectReferences": {
-              "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\Persistencia\\Persistencia.csproj": {
-                "projectPath": "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\Persistencia\\Persistencia.csproj"
+              "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\Persistencia\\Persistencia.csproj": {
+                "projectPath": "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\Persistencia\\Persistencia.csproj"
               }
             }
           }
@@ -69,14 +69,14 @@
         }
       }
     },
-    "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\dominio\\Dominio.csproj": {
+    "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\dominio\\Dominio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\dominio\\Dominio.csproj",
+        "projectUniqueName": "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\dominio\\Dominio.csproj",
         "projectName": "Dominio",
-        "projectPath": "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\dominio\\Dominio.csproj",
+        "projectPath": "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\dominio\\Dominio.csproj",
         "packagesPath": "C:\\Users\\Sena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\dominio\\obj\\",
+        "outputPath": "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\dominio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sena\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -122,14 +122,14 @@
         }
       }
     },
-    "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\Persistencia\\Persistencia.csproj": {
+    "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\Persistencia\\Persistencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\Persistencia\\Persistencia.csproj",
+        "projectUniqueName": "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\Persistencia\\Persistencia.csproj",
         "projectName": "Persistencia",
-        "projectPath": "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\Persistencia\\Persistencia.csproj",
+        "projectPath": "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\Persistencia\\Persistencia.csproj",
         "packagesPath": "C:\\Users\\Sena\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\Persistencia\\obj\\",
+        "outputPath": "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\Persistencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\Sena\\AppData\\Roaming\\NuGet\\NuGet.Config"
@@ -144,8 +144,8 @@
           "net6.0": {
             "targetAlias": "net6.0",
             "projectReferences": {
-              "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\dominio\\Dominio.csproj": {
-                "projectPath": "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\dominio\\Dominio.csproj"
+              "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\dominio\\Dominio.csproj": {
+                "projectPath": "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\dominio\\Dominio.csproj"
               }
             }
           }

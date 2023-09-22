@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\Sena\\Desktop\\Proyecto\\proyecto\\dominio\\Dominio.csproj",
+      "projectUniqueName": "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\dominio\\Dominio.csproj",
       "projectName": "Dominio",
-      "projectPath": "C:\\Users\\Sena\\Desktop\\Proyecto\\proyecto\\dominio\\Dominio.csproj",
+      "projectPath": "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\dominio\\Dominio.csproj",
       "packagesPath": "C:\\Users\\Sena\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\Sena\\Desktop\\Proyecto\\proyecto\\dominio\\obj\\",
+      "outputPath": "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\dominio\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\Sena\\AppData\\Roaming\\NuGet\\NuGet.Config"

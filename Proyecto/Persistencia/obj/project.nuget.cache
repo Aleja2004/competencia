@@ -1,8 +1,8 @@
 {
   "version": 2,
-  "dgSpecHash": "XJ0wyz+zWIwQ+vNN3oOTGR8m8s+iK8qrYDxlSVaisEgd2RV1jD8APnl/PiJltRebSrSEA4q5DMWxB/sWPX/sDA==",
+  "dgSpecHash": "0IIVCY4Ags8NVOH1wczd73VNDecDV5UUVLj6y6q/Vu2RDN69DfhUIrCbPXr/Cs1c8Qnuy9dhdiQysw5hfAXonw==",
   "success": true,
-  "projectFilePath": "C:\\Users\\Sena\\Desktop\\Proyecto\\Proyecto\\Persistencia\\Persistencia.csproj",
+  "projectFilePath": "C:\\Users\\Sena\\Desktop\\competencia\\Proyecto\\Persistencia\\Persistencia.csproj",
   "expectedPackageFiles": [
     "C:\\Users\\Sena\\.nuget\\packages\\azure.core\\1.25.0\\azure.core.1.25.0.nupkg.sha512",
     "C:\\Users\\Sena\\.nuget\\packages\\azure.identity\\1.7.0\\azure.identity.1.7.0.nupkg.sha512",
